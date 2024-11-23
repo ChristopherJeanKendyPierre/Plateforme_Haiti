@@ -40,6 +40,7 @@ class User extends Authenticatable
      *
      * @return array<string, string>
      */
+    //test
     protected function casts(): array
     {
         return [
